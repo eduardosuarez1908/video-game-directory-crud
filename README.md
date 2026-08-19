@@ -1,4 +1,7 @@
-# Sistema de Gestión de Directorio de Videojuegos
+<h1 align="center">
+Sistema de Gestión de Directorio de Videojuegos
+</h1>
+
 Proyecto académico desarrollado como parte de mi formación en Desarrollo de Software y Ciberseguridad en el Instituto Superior Tecnológico Cordillera.
 
 ## Descripción
