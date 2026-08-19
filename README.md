@@ -44,3 +44,6 @@ El sistema muestra un menú con opciones para registrar, consultar, buscar, modi
 
 ### Estado del proyecto
 Proyecto académico funcional en consola, en proceso de mejora continua.
+
+## Captura del proyecto
+![Menú principal](screenshot-menu.png)
